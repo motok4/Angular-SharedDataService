@@ -1,3 +1,6 @@
+# Angular-SharedDataService
+A Service to Shared data between compononents on application.
+
 # SharedDataService
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
